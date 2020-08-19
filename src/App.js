@@ -4,7 +4,7 @@ import Titles from './components/Titles.js'
 import Form from './components/Form.js'
 import Wether from './components/Wether.js'
 import 'bootstrap/dist/css/bootstrap.min.css'
-const API_KEY = "f79b67ad27a229a5fbd2d9350efc9fc9"
+const API_KEY = ""
 class App extends React.Component{
   constructor(props){
     super(props)
